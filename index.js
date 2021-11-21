@@ -133,8 +133,8 @@ function resume()
             <img src="https://icon-library.com/images/unknown-person-icon/unknown-person-icon-4.jpg" class="rounded-circle" id="img" alt="...">
             <h4 style="text-align: justify;">${user}</h4>
             <hr>
-            <p>Email:${email}</p>
-            <p>LinkedIn:${link}</p><br>
+            <p>Email:<br>${email}</p>
+            <p>LinkedIn:<br>${link}</p><br>
             <p>${address}</p>
           </div>
 
